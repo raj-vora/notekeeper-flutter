@@ -1,16 +1,27 @@
 # notekeeper
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
+* Install dependencies
+```sh
+    $ flutter pub get
+```
 
-This project is a starting point for a Flutter application.
+* Start building  
+Use emulator or a physical device connected by USB
+```sh
+    $ flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+* Create APK
+```sh
+    $ flutter build apk --split-per-abi
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Install for Android
+- [64 bit apk](https://www.github.com/raj-vora/notekeeper-flutter/blob/master/apks/notekeeper-arm64.apk?raw=true)
+- [32 bit apk](https://www.github.com/raj-vora/notekeeper-flutter/blob/master/apks/notekeeper-armeabi.apk?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+For help getting started with Flutter, view [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.

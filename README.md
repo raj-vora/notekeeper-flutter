@@ -21,5 +21,3 @@ Use emulator or a physical device connected by USB
 ### Install for Android
 - [64 bit apk](https://www.github.com/raj-vora/notekeeper-flutter/blob/master/apks/notekeeper-arm64.apk?raw=true)
 - [32 bit apk](https://www.github.com/raj-vora/notekeeper-flutter/blob/master/apks/notekeeper-armeabi.apk?raw=true)
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
